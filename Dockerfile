@@ -1,7 +1,4 @@
-# Docker Container for Java DebianSlim
-# https://www.linuxcontainers.dev
-# Source repository: https://github.com/linuxcontainers/debian-slim
-# Source licensed under the MIT License: https://github.com/linuxcontainers/debian-slim/blob/master/LICENSE
+# Docker Container for Java Debian-Slim Bullseye
 
 FROM debian:11.3-slim
 
